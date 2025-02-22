@@ -1,4 +1,4 @@
-fastapi 
-pydantic 
+fastapi
+pydantic
 uvicorn
 pandas
